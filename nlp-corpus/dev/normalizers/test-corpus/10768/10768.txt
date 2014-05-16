@@ -1,0 +1,1799 @@
+The Project Gutenberg EBook of L'egyptologie, by Gaston Maspero
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: L'egyptologie
+
+Author: Gaston Maspero
+
+Release Date: January 21, 2004 [EBook #10768]
+
+Language: French
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK L'EGYPTOLOGIE ***
+
+
+
+
+Produced by Robert Connal, Renald Levesque and PG Distributed
+Proofreaders. This file was produced from images generously made
+available by the Bibliotheque nationale de France (BnF/Gallica) at
+http://gallica.bnf.fr.
+
+
+
+
+
+L'EGYPTOLOGIE
+
+Par G. MASPERO
+
+
+
+
+LES ETUDES EGYPTOLOGIQUES
+
+
+L'Egyptologie est nee en France; CHAMPOLLION le Jeune (1790-1832) en fut
+le fondateur, et, pendant un certain nombre d'annees, cette science
+demeura exclusivement francaise. L'histoire de ses commencements se trouve
+ecrite dans le rapport que M. DE ROUGE adressa, a propos de l'Exposition
+Universelle de Paris, en 1867, a Victor DURUY, alors ministre de
+l'Instruction publique: je ne reviendrai pas sur les faits anterieurs a
+cette date.
+
+La generation d'egyptologues francais qui avait succede a celle de
+CHAMPOLLION et qui, avec Theodule DEVERIA (1831-1871), Emmanuel DE ROUGE
+(1811-1872), MARIETTE PACHA (1821-1881), CHABAS (1817-1882), avait deblaye
+vigoureusement les abords du terrain, commencait alors a disparaitre sous
+la poussee d'une generation nouvelle. Tous les savants qui l'illustrerent
+avaient travaille isolement, chacun dans une direction differente: E. de
+Rouge a Paris, ou il avait constitue, d'une maniere presque definitive, la
+grammaire pour l'oeil des documents de la seconde epoque thebaine, Chabas
+en province, a Chalon-sur-Saone, ou il s'etait applique surtout au
+dechiffrement des textes, Mariette a l'etranger, dans l'Egypte meme, ou,
+aide par moments de Deveria, il s'etait livre a l'exploration du sol, a la
+copie des inscriptions, au degagement des grands monuments et ou il avait
+fonde le service des Antiquites. La generation suivante s'occupa de
+regulariser la Science et de la mettre, une fois pour toutes, en
+possession des instruments necessaires a la formation des generations
+futures. Elle se composait des hommes eleves a l'ecole d'Emmanuel de
+Rouge, Jacques DE ROUGE son fils, Paul PIERRET, Paul GUIEYSSE, Eugene
+LEFEBURE, et bientot du groupe qui se rassembla autour de Gaston MASPERO.
+J. DE ROUGE, qui se voua a la publication des oeuvres laissees
+malheureusement inachevees par son pere, renonca de bonne heure a l'etude,
+apres y avoir debute brillamment par un memoire sur les textes
+geographiques du temple d'Edfou, dont un livre sur les nomes de la
+Basse-Egypte completa plus tard les donnees. Pierret, longtemps
+conservateur du Musee egyptien du Louvre, travailleur consciencieux mais
+lent et rare dans son activite, compila un petit _Dictionnaire
+d'Archeologie_ (1875) et un _Vocabulaire Hieroglyphique_ (1871-1875), qui
+ont rendu pendant longtemps des services reels aux etudiants; de
+preference, il oscilla sa vie durant entre la mythologie et la traduction
+avec commentaires des Inscriptions de son Musee, publiant d'une part la
+premiere traduction francaise du _Livre des Morts_ (achevee en 1882),
+d'_une stele ethiopienne inedite et de divers manuscrits religieux_
+(1873), de l'autre, ses deux _Recueils d'Inscriptions inedites du Musee
+egyptien du Louvre_ (1874-1878). LEFEBURE, esprit mystique et entraine
+toute sa vie du cote du spiritisme ou de l'occultisme, a pose et resolu en
+partie les problemes divers que soulevent les religions egyptiennes. Ses
+Memoires sur les _Hymnes au Soleil composant le XVe Chapitre du Rituel
+funeraire_ (1868) et sur le _Mythe Osirien: les yeux d'Horus_ (1874),
+_Osiris_ (1875), sont encore penetres des idees de Max Mueller sur la
+formation des mythes, mais l'etude des croyances sauvages et des
+superstitions populaires le ramena promptement a des doctrines plus
+saines, qu'il exposa dans une multitude d'articles disperses a travers une
+demi-douzaine de revues differentes, les _Melanges d'Archeologie_
+(1871-1878), le _Recueil de travaux_, les _Transactions_ et les
+_Proceedings_ de la societe d'Archeologie biblique de Londres, la
+_Zeitschrift fuer Aegyptische Sprache_ de Berlin, le _Bulletin de l'Institut
+egyptien_, les _Annales du Musee Guimet_, et surtout le _Sphinx_ d'Upsala
+en Suede. Successivement maitre de conferences a la Faculte des Lettres de
+Lyon (1878-1881, puis 1883-1884 et 1885-1886), directeur de la Mission
+archeologique du Caire (1881 et 1883), suppleant de M. MASPERO au College
+de France (1884-1885), maitre de conferences a l'Ecole superieure
+d'Alger (1887-1908), Lefebure s'enferma dans un enseignement tres
+technique et s'isola si completement du reste de l'Ecole, que, malgre sa
+connaissance approfondie des textes religieux et ses merites serieux de
+finesse et de clarte, il demeura presque sans influence sur le
+developpement de l'Egyptologie. Le seul de ses nombreux ecrits qui ait
+conquis la notoriete, _les Hypogees royaux de Thebes: t. I, le Tombeau de
+Seti Ier_ (1886) et t. II-III, _Notices des Hypogees_ (1889), peut se
+comparer aisement, pour l'exactitude des copies, aux recueils de Lepsius,
+de Mariette, de Duemichen et de Rouge. GUIEYSSE, qui avait debute dans la
+vie scientifique comme collaborateur de Lefebure, et qui avait essaye
+d'etablir l'edition critique du _Chapitre LXIV du Livre des Morts_ (1876),
+fut enleve promptement a l'Egyptologie par la politique. Quoiqu'il soit
+reste attache a l'Ecole des hautes etudes comme maitre de conferences et
+comme directeur d'etudes adjoint de 1880 a 1914, date de sa mort, il n'a
+pu nous donner que de rares etudes sur des points de details: il allait se
+remettre tout entier a la recherche scientifique lorsqu'il disparut.
+
+Quel que fut leur merite, les travaux de ces savants manquaient encore de
+coordination; M. MASPERO groupa en un faisceau compact les forces qui
+s'assemblaient autour de lui. Mis en lumiere des sa sortie de l'Ecole
+normale par deux Memoires: _Essai sur l'inscription dedicatoire du Temple
+d'Abydos_ (1867) et la _Stele du Songe_ (1868) puis, nomme, en 1869,
+repetiteur du cours d'archeologie egyptienne a l'Ecole pratique des hautes
+etudes, que Victor Duruy venait de fonder, M. Maspero avait reuni a son
+cours une dizaine d'auditeurs serieux: Adrien DE LONGPERIER, le fils du
+savant alors connu; l'abbe ANCESSI, qui mourut fort jeune apres avoir
+publie trois brochures sur des _Etudes de Grammaire comparee_ (1872-1873),
+sur _Moise et l'Egypte_ (1875), sur _Job et l'Egypte_ (1877); Hyacinthe
+HUSSON qui avait deja compose plusieurs ecrits de mythologie; Eugene
+GREBAUT; puis, apres la guerre, Maxence DE ROCHEMONTEIX, l'Americain
+William Berend, Eugene LEDRAIN qui quitta bientot les hieroglyphes pour
+l'hebreu, Urbain BOURIANT, Victor LORET, l'abbe AMELINEAU, Philippe VIREY.
+
+Le travail fourni par ce groupe fut tres considerable des le debut, et
+devint plus considerable encore lorsque M. Maspero eut succede a E. de
+Rouge dans la chaire de Champollion, comme charge de cours (1873), et
+presque aussitot apres comme professeur titulaire (1874). Pendant que
+M. Maspero publiait des traductions largement commentees de textes
+hieratiques, _Hymne au Nil_ (1869), _une Enquete judiciaire a Thebes au
+temps de la XXe Dynastie_ (1869-1871), _du Genre epistolaire chez les
+anciens Egyptiens_ (1872) qui lui servit de these pour le doctorat es
+lettres, _Memoire sur quelques papyrus du Louvre_ (1875) et, dans le
+_Journal asiatique_, les premiers des Memoires dont l'ensemble constitua
+plus tard ses _Etudes egyptiennes_, il produisait des oeuvres de theorie
+grammaticale sur _le Pronom personnel en egyptien_ (1869), sur _les Formes
+de la conjugaison en egyptien antique, en demotique et en copte_ (1871),
+Sur _la Formation des themes triliteres en egyptien_ (1880), et il
+abordait l'etude critique du demotique par ses _Etudes demotiques_ (dans
+le Recueil de travaux, 1870, t. I) puis par ses recherches sur _la
+Premiere page du roman de Satni transcrite en hieroglyphes_ dans la
+_Zeitschrift fuer Aegyptische Sprache_ (1877). Son activite se portait
+aussi vers le domaine historique, et il ecrivait successivement une these
+latine: _De Carchemis oppidi situ et historia antiquissima_ (1872), des
+fragments d'un _Commentaire sur le livre II d'Herodote_, qui, commences
+pour l'_Annuaire de l'Association des etudes grecques_ en 1875, furent
+poursuivis plus tard ailleurs, enfin _une Histoire ancienne des peuples de
+l'Orient_ (1875) a l'usage des lycees, ouvrage qui devint bientot
+populaire, fut reedite huit fois et traduit en plusieurs langues. Joignez
+a cette production d'oeuvres independantes une collaboration incessante a
+des journaux ou a des collections francaises ou etrangeres, _Gazette
+Archeologique, Records of the Past, Transactions_ et _Proceedings_ de la
+Societe d'archeologie biblique de Londres, _Zeitschrift fuer Aegyptische
+Sprache_ de Berlin, _Comptes rendus des Congres orientalistes_ de Paris
+(1873) et de Florence (1878), _The Academy, Journal asiatique, Revue
+Archeologique_ et surtout _Revue critique_, ou, depuis 47 ans, il a rendu
+compte d'une bonne partie des oeuvres d'Egyptologie, parues en France ou a
+l'etranger.
+
+Entre temps, l'enseignement de M. Maspero aux Hautes Etudes et au College
+de France portait ses fruits: une ecole francaise, imbue des memes
+principes et agissant sous une meme impulsion, s'elevait dans la
+generation d'alors. Le premier qui se manifesta brillamment fut
+M. Grebaut, avec sa these pour le diplome des Hautes Etudes intitulee
+_Hymne a Ammon Ra des papyrus egyptiens du Musee de Boulaq_ (1875) que
+suivirent bientot plusieurs articles, dont le plus important se trouve
+dans les _Melanges d'archeologie egyptienne_ (1875). Presque aussitot
+apres Grebaut, William Berend traduisit la brochure de Lepsius sur _les
+Metaux dans les inscriptions egyptiennes_ (1877) et soumit a l'examen des
+juges sa these sur les principaux _Monuments du Musee egyptien de
+Florence_, dont la premiere partie consacree aux _Steles, Bas-reliefs et
+Fresques_ a paru seule en 1882, imprimee avec luxe a l'Imprimerie
+Nationale: malgre l'eclat de ce premier debut, Berend renonca a la science
+sans esprit de retour, puis alla vivre et mourir en Suede. En passant,
+disons qu'il ne fut pas, tant s'en faut, le seul etranger qui suivit
+alors, pendant un trimestre ou deux, les cours de l'Ecole des hautes
+etudes et du College de France: nous vimes de la sorte se succeder sur les
+bancs, de 1875 a 1880, MM. Alfred Wiedemann, aujourd'hui professeur
+d'egyptologie a Bonn; Ernesto Schiaparelli, a present directeur du Musee
+de Turin; Karl Piehl, mort en 1904, professeur de langue egyptienne a
+l'Universite d'Upsal; Edwin Wilbour, journaliste americain, qui apprit
+beaucoup, passa les vingt dernieres annees de sa vie alternativement en
+Egypte et en France, puis mourut a Paris en 1897 sans avoir rien publie.
+Neanmoins le fond de l'Ecole resta francais: l'on vit Rochemonteix
+inaugurer les etudes du berbere compare a l'egyptien (1873-1876), et
+Eugene Ledrain, se derobant a la vocation ecclesiastique, nous fournir
+comme these pour le diplome de l'Ecole des hautes etudes ses _Monuments
+egyptiens de la Bibliotheque nationale_ (1879-1882).
+
+A ce moment l'Ecole francaise etait en pleine prosperite: M. Maspero en
+avait reparti les membres entre les domaines les plus varies, dirigeant
+MM. Loret, Bouriant et Virey vers l'interpretation des manuscrits
+hieratiques, M. GAYET vers l'archeologie paienne et chretienne, l'abbe
+Amelineau vers le copte; d'autre part, M. de Rochemonteix, detache en
+Egypte de 1875 a 1878, y relevait les inscriptions et tableaux du grand
+temple d'Edfou. Il fallait a cette pleiade un moyen aise de publication,
+un journal auquel elle put confier ses travaux a mesure qu'ils se
+poursuivaient. Deja, en 1869, l'editeur Vieweg avait mis en circulation
+une revue dont il avait confie la preparation a M. Maspero, et dans le
+premier semestre de 1870, celui-ci avait lance avec la collaboration de
+MM. E. de Rouge, Deveria, Pierret, un premier numero qui avait pour titre:
+_Recueil de travaux relatifs a la philologie et a l'archeologie
+egyptiennes et assyriennes_; mais, la guerre survenant presque aussitot,
+M. de Rouge l'avait remplace chez le meme editeur par un nouveau journal,
+les _Melanges d'archeologie egyptienne et assyrienne_, destine a recevoir
+les productions de notre Ecole en opposition a la _Zeitschrift fuer
+Aegyptische Sprache_ de Berlin qui serait reservee aux Allemands. Apres la
+mort de M. de Rouge, qui coincida presque avec l'apparition du premier
+fascicule, ces _Melanges_ trainerent peniblement sous la conduite d'un
+comite de redaction, ou figuraient MM. Jacques de Rouge, Pierret, Maspero,
+E. Revillout; ils fournirent trois volumes de 1871 a 1878, date ou le
+comite fut dissous et ou les _Melanges_ furent remplaces par deux
+Publications independantes l'une de l'autre, le _Recueil de travaux_, que
+M. Maspero ressuscita et dont il composa un second numero en 1879, la
+_Revue egyptologique_ que M. REVILLOUT edita depuis 1880 jusqu'a sa mort,
+en 1912.
+
+L'orientation de ces deux publications fut tres differente. Tandis que le
+_Recueil_ s'efforcait de faire oeuvre durable et d'embrasser le domaine
+entier de l'egyptologie, la _Revue_, plus irreguliere dans son allure, se
+consacra de preference a la critique du moment, qu'elle exerca avec
+aprete; en fin de compte, elle devint presque entierement l'organe
+exclusif de son directeur. Entre au Musee egyptien du Louvre en 1872,
+celui-ci s'etait voue des lors avec ardeur au copte, puis au demotique.
+C'est ainsi qu'il jeta rapidement sur la place, souvent en les
+autographiant pour marcher plus vite, ses _Actes et contrats des musees
+egyptiens de Boulaq et du Louvre_ (1876), puis ses _Apocryphes coptes du
+Nouveau testament_ (1876), ainsi qu'un _Memoire sur la vie et les
+sentences de Secundus_, et un autre sur _le Concile de Nicee d'apres les
+textes coptes et les diverses collections canoniques_, qui furent inseres
+au _Journal asiatique_ de 1872 a 1875 et ne furent completes qu'en 1881;
+le tout sans prejudice d'une premiere etude sur les _Blemmyes_ (1874) et
+de differentes notes sur l'archeologie funeraire copte, qu'il donna aux
+_Melanges_. Ce ne fut la, toutefois, que le moindre de sa besogne.
+Trouvant dans la riche collection du Louvre une masse alors incomparable
+de papyrus demotiques, il se livra avec fougue au dechiffrement de
+l'ecriture cursive qu'il avait commence sous M. Maspero et il en tira
+bientot des resultats aussi neufs qu'importants: il y decouvrit des
+contrats de mariage de differente nature, des contrats de location pour
+maisons et pour terres, des contrats de vente et d'achat, bref une masse
+d'actes juridiques du plus haut interet. Il forma ainsi deux
+_Chrestomathies demotiques_ dont la nouvelle (1878) parut avant l'ancienne
+(1880) par une de ces bizarreries qui ne sont pas rares dans son oeuvre.
+En meme temps il traduisait mot a mot le conte demotique de Satni, dont
+Brugsch avait donne une premiere interpretation dix annees auparavant,
+mais il attendait plusieurs annees encore avant d'y ajouter une
+introduction et de faire du tout un volume sous le titre: _le Roman de
+Setna, etude philologique et critique_ (1877-1885). Ce fut sans prejudice
+d'une foule d'ecrits moindres, publies en brochures independantes ou
+dissemines dans les journaux francais et etrangers, _Journal asiatique,
+Revue Archeologique, Proceedings_ de la Societe d'archeologie biblique,
+_Melanges_, etc. Bref, il fit entierement sa revue, a lui, de la _Revue
+Egyptologique_, dont il avait produit le premier numero en 1880 avec
+CHABAS et Henri BRUGSCH, et dont il remplit presque seul, les quatorze
+volumes parus de 1880 a 1912, avec ses articles et ses commencements
+d'articles inacheves sur le copte, sur le demotique et en dernier lieu sur
+quelques textes hieroglyphiques.
+
+L'Ecole egyptologique prosperait en France, lorsque les changements
+provoques par la mort de Mariette vinrent a la fois en elargir et en
+compromettre le developpement. Depuis l'annee de l'Exposition universelle
+en 1867, qui marqua l'apogee de son credit en Egypte, Mariette avait du
+lutter sans relache contre l'influence allemande rendue tres forte par la
+victoire de 1870-71, contre la nonchalance et le desordre de
+l'administration egyptienne, et surtout contre la maladie qui se revela
+mortelle pour lui des 1872. Force de renoncer aux grandes fouilles qui
+avaient illustre les debuts de sa direction a Boulaq, il s'efforca du
+moins d'en publier les resultats principaux, et, aide de MM. Louis Vassali
+et Emile Brugsch d'une part, de M. Maspero de l'autre, il donna toute une
+serie de grands travaux: _Abydos_, (3 vol. 1869-1880), _Denderah_ (5 vol.
+1869-1875), _Deir-el-Bahari_ (1 vol. 1875), _les Papyrus egyptiens du
+Musee de Boulaq_ (3 vol. 1870-1871), _Karnak, etude topographique et
+Archeologique_ (1 vol. 1875), _Voyage de la Haute Egypte_ (2 vol. 1878),
+_Monuments divers recueillis en Egypte et en Nubie_ (1 vol. 1871-1889). Il
+preparait de concert avec M. Maspero deux oeuvres plus importantes encore,
+dont les fragments ne furent edites qu'apres lui, _le Serapeum de Memphis_
+(1 vol. 1883) et _les Mastabas de l'Ancien Empire_ (Paris, 1889), lorsque
+son etat empira tellement que l'on craignit de le voir disparaitre
+soudain, laissant vacante en Egypte une place que la France avait interet
+a conserver. Deja, en 1873, M. Maspero avait propose au gouvernement
+francais de creer au Caire une ecole analogue a celle qui existait a
+Athenes pour l'etude des monuments grecs; mais son projet avait ete rejete
+par M. de Watteville. Il fut repris par M. Xavier Charmes et, a
+l'instigation de ce dernier, M. Alfred Rambaud, alors chef du cabinet de
+M. Jules Ferry, ministre de l'Instruction publique, decida, le 13 novembre
+1880, M. Maspero a aller etablir une Mission permanente au Caire.
+Celui-ci, apres avoir prie M. Grebaut de le suppleer au College de France,
+emmena avec lui ce qu'il avait de mieux en ce temps a l'Ecole des hautes
+etudes, MM. Urbain Bouriant et Victor Loret, auquel il adjoignit un
+Arabisant, M. DULAC, et un dessinateur, M. BOURGOIN. Arrive au Caire le 5
+janvier 1881, il installa son monde dans une maison sise sur une des
+ruelles qui touchent le boulevard Mohammed-Ali et il le mit au travail,
+mais Mariette etant mort le 18 janvier, il fut nomme le 8 fevrier suivant
+Directeur general des fouilles d'Egypte, malgre les demarches qu'entreprit
+M. de Saurma, Consul general d'Allemagne, pour faire attribuer la place a
+Henri Brugsch. En depit de son transfert au service egyptien, M. Maspero
+n'en demeura pas moins le directeur reel de la Mission, bien que la
+direction apparente en fut confiee officiellement, d'abord a M. Eugene
+LEFEBURE (1881-1883), puis a M. GREBAUT (1883-1886), et l'exploration de
+l'Egypte marcha desormais sous le controle complet de l'Egyptologie
+francaise. Elle progressa heureusement, malgre les embarras ou nous
+jeterent la revolution d'Arabi-Pacha en 1882 et une grande epidemie de
+cholera en 1883. Mariette, obeissant a l'esprit de son temps, avait
+surtout opere des fouilles destinees a enrichir le musee de Boulaq; M.
+Maspero pensa que le moment etait venu d'organiser plus methodiquement un
+Service des antiquites. Il divisa l'Egypte en 7 circonscriptions, et,
+comme les individus faisaient defaut pour composer un personnel competent
+d'inspecteurs indigenes, il fonda a Boulaq une petite ecole d'Egyptologie
+(1882-1886) ou il essaya d'en former six. Il tenta sans succes de soulager
+la collection du Caire en etablissant a Alexandrie un musee greco-romain.
+Il poursuivit sur un plan methodique le deblaiement et la consolidation
+des principaux temples d'Egypte. Enfin, il appela a l'entreprise des
+fouilles les etrangers que Mariette avait ecartes systematiquement, et,
+tout en essayant de regler leur industrie au moyen d'une loi que le
+Ministere egyptien ne lui accorda pas, il favorisa de son mieux la
+creation de l'_Egypt Exploration Fund_ (1882) qui a depuis lors rendu tant
+de services au pays: bref, il s'attacha a faire oeuvre d'administrateur
+autant et plus que de savant, ainsi que son devoir envers l'Egypte
+l'exigeait.
+
+Cela ne l'empecha point de fouiller pour le gouvernement egyptien les
+pyramides a inscriptions des Pharaons de la Ve et de la VIe dynastie a
+Saqqarah, Ounas, les deux Pioupi, Metesouphis (1881-1884), de decouvrir a
+Gizeh une necropole de la IVe dynastie (1882) et a Saqqarah, a Licht, a
+Dahshour (1883-1886) des cimetieres de la Ve et de la XIIe, de pousser les
+travaux en Abydos aupres de la Chounet-ez-Zebib (1881-1886), de continuer
+le degagement du grand temple d'Edfou (1884-1885) opere par Mariette, de
+decouvrir a Thebes le puits ou se cachaient les momies de Thoutmosis III,
+de Setoui Ier, de Ramses II, de Ramses III, et trente autres de princes et
+de princesses illustres dans les annales egyptiennes (1881),
+d'entreprendre a Karnak des travaux de consolidation qui ne purent etre
+menes bien loin faute d'argent (1884-1885), mais qui empecherent pendant
+quinze ans le desastre de la salle hypostyle, de commencer le degagement
+du grand temple a Medinet-Abou (1885), et surtout d'organiser, a l'aide
+d'une souscription ouverte en France, l'expropriation de la partie du
+village de Louxor qui recouvrait l'edifice d'Amenothes III, de Setoui Ier,
+et de Ramses II; grace a cette operation, qui presenta des difficultes
+considerables (1882-1884), il reussit a debarrasser l'aire du temple des
+huttes qui l'encombraient, a l'exception de la petite superficie
+recouverte par la mosquee d'Abou'l-Haggag dans l'angle nord-ouest de la
+premiere cour, et a entamer le degagement du monument ainsi reconquis
+(1884-1886). C'est aussi avec l'argent provenant d'une souscription
+provoquee en France par le _Journal des Debats_, qu'il se mit a delivrer
+du sable qui l'etouffait le Sphinx de Gizeh (1886). Les resultats de son
+action ne purent etre publies par le gouvernement egyptien, faute de
+ressources, et ne parurent qu'en partie dans divers journaux scientifiques
+et dans quelques brochures isolees, _Bulletin de l'Institut egyptien,
+Zeitschrift, Recueil de Travaux_ qui ajouta a son titre en 1881 la mention
+_pour servir de Bulletin a la Mission archeologique du Caire_, enfin aux
+_Memoires_ edites par cette Mission. Celle-ci, en effet, bien que n'ayant
+presque pas de fonds speciaux, s'ingenia a mettre au jour les productions
+de ses membres, dans une serie de volumes superbes, sous la direction de
+M. Maspero. Elles etaient de nature tres variee: tandis que M. Maspero
+assignait aux arabisants de l'ecole la tache de restituer sur le terrain
+la topographie du Caire de Makrizi, et de recueillir la litterature
+populaire de l'Egypte moderne, il occupait les egyptologues a explorer les
+temples et les tombeaux thebains ou a rechercher dans les monasteres du
+Said les pauvres debris de la litterature copte. C'est ainsi qu'on eut
+successivement, dans les premiers volumes des _Memoires_, de Bouriant,
+_Deux jours de fouilles a Tell-el-Amama, l'Eglise copte du tombeau de
+Dega, Rapport au Ministre de l'Instruction publique sur une Mission dans
+la haute Egypte_ (1884-1885),--de Loret, les _Tombeaux de l'Amxent
+Amenhotep_ et de l'_Amxent Khamha, Quelques documents relatifs a la
+musique et a la litterature populaire de la haute Egypte_,--de Lefebure,
+les trois volumes de ses _Hypogees royaux de Thebes_ dont j'ai deja
+parle,--de Virey, l'_Etude sur un parchemin rapporte de Thebes_ et le
+_Tombeau de Rekhmara_,--de Gayet, les _Monuments coptes du Musee de
+Boulaq, Catalogue des sculptures et des steles ornees de la salle copte_,
+--d'Amelineau, ses _Monuments pour servir a l'histoire de l'Eglise
+chretienne_, en deux volumes, allant du IVe au VIIe siecle. Plusieurs de
+ces ouvrages ne furent imprimes qu'assez tard apres leur composition, la
+mise en train ayant exige du temps; mais ils appartiennent tous a cette
+epoque heroique de la Mission. Ceux qui traitent de l'art copte meritent
+une attention particuliere, car on avait dedaigne jusqu'alors les
+productions de la civilisation chretienne de l'Egypte et on avait neglige
+de les recueillir systematiquement. M. Maspero fut le premier a les
+rechercher, a en former un Musee distinct, et a en encourager la
+publication.
+
+Cependant, des raisons de sante ayant oblige M. Maspero a quitter l'Egypte
+le 1er juillet 1886, M. Grebaut, directeur de l'Ecole francaise, lui
+succeda a la direction du Service des Antiquites, a partir du 1er juin de
+la meme annee, et, le 1er decembre, M. Urbain Bouriant, qui etait l'un des
+conservateurs adjoints de Boulaq depuis 1883, le remplaca comme directeur
+de l'Ecole, tandis que M. Georges DARESSY, eleve de l'Ecole, prenait le
+poste de M. Bouriant au Musee. Cette modification du personnel en Egypte
+ne changea rien a la situation generale: l'Ecole continua a recevoir de M.
+Maspero l'impulsion directrice. Celui-ci, de retour a Paris, avait repris
+ses lecons a l'Ecole des hautes etudes ainsi qu'au College de France, et
+il s'etait occupe tout d'abord de reorganiser les cours desempares
+momentanement par le transfert imprevu, au Caire, des meilleurs etudiants,
+et par la succession rapide, au College de France, de M. Grebaut
+(1881-1884), de M. Lefebure (1884-1885) et de M. Guieysse (1885-1886).
+L'ouverture, en 1883, de deux cours d'Egyptologie a l'Ecole du Louvre,
+l'un pour l'egyptien ancien par M. Pierret, l'autre de litterature et de
+droit demotique par M. Revillout, sembla d'abord lui faciliter la tache.
+Tandis qu'il mettait en ordre les notes recueillies en Egypte et donnait
+rapidement au _Recueil_, dans les tomes III et suivants jusqu'au
+quatorzieme, le texte et la traduction des ecrits religieux contenus dans
+les Pyramides, reunis plus tard en un seul volume, sous le titre _les
+Inscriptions des Pyramides de Saqqarah_ (1894), aux Memoires de la Mission
+du Caire, _les Momies royales de Deir el Bahari_ (t. I) et _les Fragments
+de la version thebaine de l'Ancien Testament_ (t. VI), il preparait une
+generation nouvelle d'egyptologues qui, s'instruisant un peu au Louvre et
+beaucoup a l'Ecole des hautes etudes, partaient ensuite pour le Caire, MM.
+BENEDITE, Jules BAYET, Dominique MALLET, le pere SCHEIL, BOUSSAC,
+CHASSINAT, LEGRAIN. Ce fut pour l'Ecole francaise une periode d'activite
+feconde, pendant laquelle nous eumes des cours a Alger en 1886 pour M.
+Lefebure, a Paris pour M. Amelineau a l'Ecole des hautes etudes (section
+des sciences religieuses), tandis que M. Victor Loret remplacait
+M. Lefebure comme maitre de conferences a Lyon.
+
+Ces maitres repandirent largement l'enseignement de la langue et de
+l'archeologie egyptiennes, et a ce moment, l'on vit paraitre les theses de
+M. Virey: _Etudes sur le papyrus Prisse_ (1886); de M. GAYET, _Steles de
+la XIIe Dynastie du Musee du Louvre;_ de M. Mallet, _le Culte de Neith a
+Sais;_ de M. PATURET, _la Condition juridique de la femme dans l'ancienne
+Egypte;_ de M. Amelineau, _Essai sur le Gnosticisme egyptien._ L'antiquite
+egyptienne fut exploitee resolument dans toutes ses directions: grammaire
+par Victor Loret, qui resuma, dans son _Manuel de la Langue egyptienne_,
+l'enseignement de ses maitres et y ajouta ses propres observations;
+histoire, par M. Maspero, _Notes sur quelques points de grammaire et a
+histoire_ dans _la Zeitschrift_ et dans _le Recueil;_ archeologie, par le
+meme, qui condensait, dans son _Archeologie egyptienne_, les resultats de
+ses remarques sur les arts et l'industrie; litterature hieratique, par le
+meme encore, _Contes populaires de l'Egypte ancienne_, dont quatre
+editions se sont suivies en moins de trente ans; litterature demotique,
+par Revillout, _Rituel funeraire de Pamonth, Cours de Droit egyptien,_ en
+nombreuses parties; la _Litterature chretienne de l'Egypte grecque et
+copte,_ par Amelineau, dont j'ai deja cite les ouvrages, et par Bouriant,
+dont les oeuvres furent inserees presque toutes dans les _Memoires de la
+mission_, ainsi que celles du pere Scheil. Rochemonteix mourait
+malheureusement a la fin de 1892, ayant eu a peine le temps de mettre en
+train son _Temple d'Edfou_, dont MM. Maspero, puis Chassinat continuerent
+la publication jusqu'a nos jours (1892-1914) sans l'achever; mais Gayet et
+Benedite commencerent, le premier le _Temple de Louxor_, le second le
+_Temple de Philae._ Dans le meme temps, M. Maspero ne cessait pas
+d'analyser, dans la _Revue critique_, les livres qui y affluaient sur
+l'Egyptologie, de communiquer au _Victoria Institute_ ses recherches sur
+les listes geographiques egyptiennes de la Palestine, et de developper,
+dans son _Bulletin de la Revue de l'histoire des religions_, ses theories
+sur la nature des mythes et des dieux egyptiens, qui prevalent depuis ce
+temps dans l'Ecole. Ajoutons, pour etre complet, quelques ouvrages de
+vulgarisation qui firent plus que beaucoup de memoires scientifiques pour
+repandre le gout des choses du Nil dans le grand public: les _Moines
+egyptiens_ d'Amelineau (1889), ainsi que les _Lectures historiques_ de
+Maspero (1888) et que ses catalogues. Deja en 1883, il avait essaye de
+faire, du _Guide du visiteur au Musee de Boulaq_, un veritable manuel
+d'archeologie etabli sur une collection; son _Catalogue du Musee egyptien
+de Marseille_ (1889) est construit sur le meme plan, bien qu'avec des
+proportions plus restreintes.
+
+En Egypte, l'alliance etroite du Service des antiquites, sous M. Grebaut,
+et de la Mission du Caire, dirigee par M. Bouriant sous l'inspiration de
+M. Maspero, fut d'abord des plus heureuses. M. Bouriant, qui s'enfermait
+dans l'accomplissement de son devoir scientifique, publia au _Journal
+asiatique_, au _Recueil de Travaux_, aux _Memoires_ de la Mission, ses
+moissons de documents inedits et ses decouvertes perpetuelles, _Notice des
+monuments coptes du Musee de Boulaq_, les _Canons apostoliques de Clement
+de Rome, la Stele 5576 du Musee de Boulaq et l'Inscription de Rosette,
+Notes de Voyage, Fragments de la version copte du Roman d'Alexandre, Actes
+du Concile d'Ephese, l'Eloge de l'Apa Victor fils de Romanos, Fragments du
+texte grec du Livre d'Enoch et de quelques ecrits attribues a saint
+Pierre_. De son cote, M. Grebaut surveillait de pres l'administration du
+Service des Antiquites, et poussant activement les fouilles, il continuait
+le deblaiement du temple de Louxor, engageait a fond celui de
+Medinet-abou, decouvrait dans la seconde cachette de Deir-el-Bahari plus
+d'une centaine de momies appartenant a la famille souveraine des
+grands-pretres d'Amon et a ses descendants, enfin il operait heureusement,
+en 1890-1891, le transfert du Musee egyptien, de l'edifice etrique de
+Boulaq au palais grandiose de Gizeh; mais le parti qu'il crut bon de
+prendre dans la politique egyptienne motiva son retour en France, au cours
+de l'annee 1892.
+
+Il eut pour successeur a la Direction generale des antiquites M. Jacques
+DE MORGAN, qui venait de se faire connaitre par ses recherches
+archeologiques dans le Caucase russe et en Perse. Le nouveau directeur
+s'occupa de son service avec activite, achevant le deblaiement de
+Medinet-abou, explorant avec soin les carrieres de la haute Egypte et les
+environs d'Assouan, reprenant les fouilles que M. Maspero avait commencees
+autour des Pyramides de Dahshour et y recueillant, en 1894-1895, les
+bijoux admirables de plusieurs princesses qui avaient vecu sous la XIIe
+dynastie. Une bonne part de ces travaux avait ete accomplie avec la
+collaboration de la Mission permanente du Caire et mise au jour par elle,
+dans J. de Morgan-Bouriant, _les Carrieres de Ptolemais_; mais d'autres
+avaient ete publies independamment par le ministere egyptien, _Catalogue
+des monuments et inscriptions de l'Egypte ancienne_, t. I, de _la
+Frontiere de l'Egypte a Kom-Ombo_; et t. II, _Kom-Ombo_, premiere partie,
+puis _Fouilles a Dahchour_, mars-juin 1894, t. I. Des recherches
+particulieres, absorbant M. de Morgan, imprimerent toutefois a son esprit
+une direction differente, et, rompant avec la tradition etablie par
+Champollion, lancerent la science sur des voies nouvelles. Jusqu'alors les
+savants avaient discute, sans resultat evident, la question de savoir si
+l'Egypte antique avait connu un age de la pierre et s'il en subsistait des
+traces; malgre la decouverte operee en 1869 par des savants francais,
+ARCELIN, HAMY, Francois LENORMANT, sur la montagne qui surplombe
+Deir-el-Bahari, les avis demeuraient partages a ce sujet, et les
+Egyptologues s'etaient si bien accoutumes a commencer l'histoire positive
+du pays a la fin de la IIIe dynastie, que M. PETRIE, ramenant au jour,
+pour la premiere fois, pres de Haggadah et de Ballas, des vestiges
+nombreux d'une civilisation grossiere, les attribuait non pas aux
+Egyptiens d'avant Menes, mais a une race nouvelle apparue vers le temps du
+moyen empire. M. de Morgan, reprenant les fouilles de Petrie a Haggadah,
+et les etendant a d'autres localites du Said situees entre Assiout et
+Thebes, montra qu'il s'agissait, en realite, des generations anterieures a
+l'age des grandes Pyramides. Presque simultanement M. Amelineau, creusant
+le sable dans les necropoles d'Abydos, y decouvrait dans la region
+d'Omm-el-Gaab, la _mere des pots_, les hypogees des rois de la Ire, de la
+IIe et de la IIIe dynasties (1895). Cinq annees durant, de 1895 a 1899,
+M. Amelineau exploita le site d'Abydos, aux frais d'une association
+d'amateurs francais. Ces fouilles, les plus fecondes qu'il y eut en
+resultats nouveaux, furent publiees: par M. de Morgan, dans son ouvrage en
+deux volumes, _Recherches sur les origines de l'Egypte_, t. I _l'Age de la
+pierre et des metaux_, t. II _Ethnographie prehistorique et le tombeau
+royal de Negadah_; par M. Amelineau, malheureusement avec un esprit
+critique insuffisant, dans une foule de rapports, de brochures ou de
+livres, qui se succederent de 1895 a 1910, _les Fouilles d'Abydos,
+campagne de 1895-1896, les nouvelles Fouilles d'Abydos_ (1896-1897), _les
+nouvelles Fouilles d'Abydos _(1897-1898), et trois volumes in-4 deg. sur _les
+nouvelles Fouilles d'Abydos_, et _le Tombeau d'Osiris, monographie de la
+decouverte faite a Abydos, en 1897-1898.
+
+La mission francaise avait pris une part importante aux travaux de M. de
+Morgan, mais employee par lui a des taches secondaires, elle n'en tira pas
+de renom. M. Maspero en effet, force de surveiller les etudes qu'il avait
+entreprises pour son propre compte, avait renonce a s'occuper d'elle pour
+le moment. C'etaient d'un cote son _Histoire des peuples de l'Orient
+classique_ dont il avait donne une forme abregee vingt ans auparavant et
+qui parut en livraisons de 1892 a 1900, de l'autre ce qu'il appela la
+_Bibliotheque egyptologique_. Il avait remarque, au cours d'une carriere
+deja longue, que la plupart des oeuvres ecrites par les maitres de
+l'Egyptologie, depuis Champollion, etaient comme perdues dans des livres
+tires a petit nombre d'exemplaires, ou dans des revues et des journaux
+disparus depuis longtemps: il resolut donc d'aller les rechercher ou elles
+etaient et de les reunir dans une collection accessible a tous. C'etait
+rendre service aux jeunes, qui ne se trouveraient plus exposes a presenter
+comme neuves des idees deja vieilles, et aux anciens, dont on pouvait
+ainsi saisir aisement le travail et apprecier a sa juste valeur
+l'influence exercee au developpement de la science. Ajoutez a cela une
+collaboration reguliere au _Journal des Debats_ destinee a populariser
+l'historiographie ancienne de l'Orient; une partie des articles composes
+ainsi, non sans peine, a ete reunie en volume vers 1907. Cependant
+l'assiduite ne faiblissait pas a l'Ecole des hautes etudes et au College
+de France, dont MM. LACAU, MORET, Isidore LEVY, le pere DEIBER, l'abbe
+ERMONI, et vingt autres suivaient les cours. M. Mallet publiait son bel
+ouvrage sur les _Premiers etablissements des Grecs en Egypte_.
+M. Chassinat achevait le premier volume de l'_Edfou_ de Rochemonteix.
+M. Amelineau lancait l'un apres l'autre ses _Actes des Martyrs de l'Eglise
+copte_, sa _Morale egyptienne quinze siecles avant notre ere, etudes sur
+le papyrus de Boulaq N deg. 4_, ou il s'inspirait des remarques faites par
+M. Maspero a l'Ecole des hautes etudes, son _Essai sur l'Evolution
+historique et philosophique des idees morales dans l'Egypte ancienne_, et
+la premiere partie fort peu personnelle de son _Histoire de la sepulture
+et des funerailles en Egypte_. M. Loret composait sa _Flore pharaonique_.
+M. CHARDON amorcait son _Dictionnaire demotique_ qu'il n'a point termine.
+M. Legrain offrait comme these a l'Ecole du Louvre le _Livre des
+Transformations_, et M. BOUDIER, les _Vers egyptiens, metrique demotique,
+etude prosodique et phonetique des Poemes satyriques, du Poeme de Moschion
+et des papyrus a transcriptions grecques de Leyde et de Londres_.
+
+A cette epoque, M. de Morgan etant retourne en Perse avec une Mission du
+Ministere francais, M. Victor Loret le remplaca en Egypte a la direction
+du Service des antiquites (juillet 1897), et il se voua tout entier aux
+fouilles. Elles furent heureuses a Saqqarah, ou il fit sortir des sables
+la pyramide ruinee d'une reine Apet de la VIe dynastie, puis, autour
+d'elle, plusieurs tombeaux qui formerent comme une Pompei egyptienne, et
+surtout a Thebes ou, de 1898 a 1899, il decouvrit les hypogees de
+Thoutmosis Ier, de Thoutmosis III, de Maharpiriou et d'Amenothes II, ou
+etaient renfermees les momies de onze des Pharaons et des princesses des
+XVIIIe, XIXe et XXe dynasties, en realite le complement de la trouvaille
+operee dix-sept ans auparavant a Deir-el-Bahari. Malheureusement sa
+direction, si brillante par certains cotes, ne dura que deux annees, et le
+Ier novembre 1899, M. Maspero se voyait renvoye par le Ministere des
+Affaires etrangeres de France a son ancien poste de directeur du Service
+des Antiquites. Il porta tous ses soins sur l'administration, divisa le
+territoire entre onze inspecteurs indigenes aux ordres de deux inspecteurs
+en chef europeens, remit l'ordre dans les finances, reprima de son mieux
+les fouilles illicites des marchands, prepara des 1902 une loi sur les
+antiquites, qui ne fut promulguee que le 12 juin 1912 et que le systeme
+des capitulations l'empecha d'appliquer aux Europeens, provoqua, en depit
+d'une opposition acharnee, la creation de musees locaux a Ismailiah
+(1908), a Elephantine (1912), a Tantah (1913), a Minieh (1914) et surtout
+a Assiout (1911-1914), organisa la protection de la region des Oasis
+(1909), et de 1907 a 1910 arma contre la destruction les temples de la
+Nubie que menacait l'elevation des eaux du Nil, produite par le barrage
+d'Assouan, Debot, Taffah, Kalabcheh, Dandour, Gerf-Hussein,
+Ouady-es-Seboua, Derr, Ibsamboul. D'autre part, se debarrassant de la
+tache des fouilles sur les etrangers, il se chargea d'executer le
+deblaiement et la consolidation des principaux monuments de l'Egypte
+propre, Saqqarah, Abydos, el-Hibeh de la Grande Oasis, Denderah, Assouan:
+il fit degager a fond Karnak par M. Legrain, Gournah, Esneh et Edfou par
+M. Barsanti, Deir-el-Medineh par M. BARAIZE qui avait restaure deja
+el-Hibeh. Les resultats de ses efforts sont consignes dans le _Recueil de
+travaux_, dans la _Zeitschrift_, dans les _Comptes rendus_ de l'Institut
+egyptien, dans le _Bulletin_ de l'Institut francais d'Archeologie
+orientale du Caire, enfin dans les _Annales du Service des Antiquites_,
+fondees en 1899 par M. Loret et dont quatorze volumes ont paru de 1900 a
+1915. Cette meme periode vit achever par ses soins le _Kom-Ombo_ et les
+_Fouilles a Dahchour_ de M. de Morgan, puis continuer le _Musee egyptien_,
+dont M. Grebaut avait emis quelques planches pour une premiere livraison
+en 1889, mais qui etait demeure suspendu ensuite jusqu'en 1900. Ces
+labeurs officiels n'arreterent point les travaux personnels de
+M. Maspero; mais sans renoncer de collaborer a la _Revue critique_, il ne
+cessa pas d'editer la _Bibliotheque egyptologique_ qui compte aujourd'hui
+pres de quarante volumes; il reunit dans trois livres differents intitules
+_Causeries d'Egypte_ (1906), _Ruines et Souvenirs d'Egypte_ (1909) et
+_Essais d'Art egyptien_ (1911), les articles de vulgarisation qu'il avait
+ecrits pour le _Journal des Debats_, pour le _Temps_ et pour diverses
+revues, insera dans la _Bibliotheque d'Etude_ des editions critiques des
+_Memoires de Sinouhit_ (1908), de l'_Hymne au Nil_ (1911) et des
+_Instructions d'Amenemhait_ (1914), enfin composa pour la collection
+_Ars una_ le traite _Egypte_ (1912) ou est exposee pour la premiere fois
+l'histoire complete de l'art egyptien, depuis ses origines jusqu'a sa
+disparition.
+
+Presque en meme temps que le Service des Antiquites, la Mission permanente
+du Caire avait change de directeur, et, qui plus est, de condition.
+M. Bouriant, subordonne par ordre a M. de Morgan, puis a M. Loret, n'avait
+pas eu le loisir d'achever la preparation de son grand ouvrage sur
+_Medinet-abou_, ni de demander beaucoup d'activite a ses eleves; il avait
+pourtant demenage la Mission de la Maison Karcher dans l'edifice que
+l'architecte Ambroise, BAUDRY lui avait bati aux frais du gouvernement
+francais, dans la rue Soliman-Pacha, pres du nouveau Musee egyptien. En
+s'etablissant ainsi chez elle, la Mission avait perdu son nom et modifie
+son statut: elle etait devenue l'_Institut francais d'Archeologie
+orientale du Caire_ et elle avait recu la personnalite civile. Bouriant y
+ouvrit une imprimerie tres modeste d'abord, mais au mois de septembre
+1897, il fut frappe d'hemiplegie, et, apres une sorte d'interregne ou
+Chassinat, alors membre de l'Ecole, exerca ses fonctions, il fut mis a la
+retraite et Chassinat lui succeda comme directeur en 1898. Celui-ci par
+gout et par necessite, developpa fortement l'imprimerie et fit d'elle,
+pour la composition et pour le tirage hieroglyphique, le premier atelier
+du monde. Il dirigea des fouilles importantes a el-Ghattah, pres
+d'Abouroache, a Baouit, a Assiout, avec le concours des membres de
+l'Institut, GAUTHIER, GUILMANT, CLEDAT, PIERON, GOMBERT, PALANQUE, BARRY,
+LESQUIER et des eleves de l'Ecole d'Athenes detaches aupres de lui,
+JOUGUET et Gustave LEFEBVRE. Gombert perit malheureusement pres de Tounah,
+mais les autres eurent le temps de mettre en ordre le resultat de leurs
+recherches. Palanque, eleve diplome de l'Ecole des hautes etudes, y avait
+presente comme these un ouvrage sur le _Nil a l'epoque pharaonique_.
+Cledat publia de 1904 a 1906 le _Monastere et la Necropole de Baouit_,
+GUILMANT, _le Tombeau de Ramses IX_ en 1907, MALLET, en 1909, le
+_Kasr el-Agouz_, Chassinat avec Pieron et Gauthier (1906) les _Fouilles
+d'El-Ghattah_, et seul en 1910 le _Mammisi d'Edfou_. Joignez-y les
+_Memoires sur les fouilles de Licht_, executees au temps de Bouriant par
+Gautier et JEQUIER, les _Monuments pour servir a l'histoire du Culte
+d'Atonou_ recueillis en 1893 par Bouriant, Legrain et Jequier, mais mis au
+jour en 1903-1905 seulement, les travaux de Lacau, _Fragments d'apocryphes
+coptes_ (1904), de DEIBER, _Clement d'Alexandrie et l'Egypte_ (1904), de
+VERNIER sur _la Bijouterie et la Joaillerie egyptiennes_ (1907), le _Livre
+des Rois d'Egypte_ commence par Gauthier en 1910 dont les trois volumes
+parus n'ont pas epuise la matiere, et vous aurez une idee de l'elan qu'il
+imprima a l'Ecole dans le domaine egyptologique, car je n'ai pas a parler
+ici des publications entreprises dans les autres champs de l'orientalisme.
+La creation du _Bulletin de l'Institut francais d'Archeologie orientale_
+(1901), dont quatorze volumes sont la, fournit aux membres l'occasion de
+faire profiter le public de leurs recherches moindres, et celle de la
+_Bibliotheque d'Etude_ (1908), dont six volumes sont deja en vente, le
+moyen de preparer des editions de manuscrits egyptiens ou coptes. Son
+activite fut ralentie vers 1905, 1906,1907 par une campagne dela presse
+francaise d'Egypte qui, ne comprenant pas le role que jouait notre
+Institut dans le pays, pretendit le depouiller du terrain qu'il possedait
+au profit d'autres etablissements. Pour le soustraire aux attaques, il dut
+le transporter au quartier lointain de Mounira, sur un terrain ou il donna
+asile a l'Ecole de Droit francais. Il reussit a le faire dans des
+conditions tres avantageuses, mais les soucis de l'operation et le trouble
+qu'elle jeta dans le recrutement arreterent les fouilles importantes: le
+transfert dument acheve, il envoya sa demission en janvier 1912 et fut
+remplace en juillet suivant par M. Lacau, qui se consacra exclusivement
+aux fouilles et explora avec succes, en collaboration avec M. MONTET, la
+necropole d'Abou-roache (1913-1914), par les soins de MM. DAUMAS et Jean
+MASPERO, les edifices de Baouit (1913), enfin en 1914, les koms d'Edfou
+par l'intermediaire de MM. JOUGUET et COLLOMP (1914). L'impulsion donnee
+aux publications par M. Chassinat continua de s'exercer pleinement pendant
+ces deux annees encore. Elles ont vu paraitre: Chassinat et Palanque, _une
+Campagne de fouilles dans la necropole d'Assiout_ (1911); Gautier, _le
+Livre des Rois d'Egypte_ (t. III, 1913); COUYAT et Montet, _les
+Inscriptions de la vallee de Hammamat_(1914): la plupart de ces travaux
+durent leur succes a la collaboration du Service des antiquites et de la
+Mission.
+
+Nulle part cette collaboration ne se montra plus intime et plus
+bienfaisante que dans ce qui regarde le Musee du Caire: elle facilita
+grandement l'impression des ouvrages publies par celui-ci, et celui-ci a
+son tour fournit aux membres de la Mission les materiaux d'innombrables
+ouvrages. Lorsque, du 13 fevrier au 13 juillet 1902, M. Maspero transporta
+la collection egyptienne de Gizeh au Caire dans l'edifice construit
+specialement au Kasr-en-Nil pour la recevoir, sa lourde tache ne fut point
+terminee: il fallait classer les objets par ordre de matieres et de dates,
+amenager les salles d'exposition et la bibliotheque, cataloguer les series
+scientifiquement et faire connaitre le sens des plus importantes au grand
+public, toutes choses assez difficiles car, si le plan general des
+batiments avait ete dresse, a la suite d'un concours international, par
+l'architecte francais Dourgnon, l'execution qui en avait eu lieu de 1897 a
+1902 avait ete entachee de malfacons telles que l'on dut refaire presque
+immediatement, de 1907 a 1915, toutes les terrasses en ciment arme et, par
+consequent, modifier sans cesse a l'interieur la disposition des salles.
+Malgre ces remaniements perpetuels, M. Maspero crut de son devoir de
+donner au grand public un _Guide du visiteur au Musee du Caire_, qui, tout
+en faisant comprendre a celui-ci la nature, l'epoque, la valeur
+historique, la signification civile ou religieuse des objets decrits, le
+preparerait a entendre et a gouter ce qu'il pourrait voir dans la haute
+Egypte: ce _Guide_, qui de 1902 a 1915 a eu quatre editions francaises,
+cinq anglaises et une arabe, en tout environ quinze mille exemplaires,
+et dont M. Maspero a fait, selon l'ideal qu'il poursuivait, un traite
+d'archeologie illustre par les monuments qu'il avait sous les yeux, a ete
+imprime par l'Institut francais d'archeologie. C'est ce dernier aussi qui
+pouvait seul executer dignement l'impression du _Catalogue general des
+Antiquites egyptiennes du Musee du Caire_, destine aux erudits. Ce dernier
+avait ete commence du temps de M. de Morgan et de M. Loret, sur un plan un
+peu confus, par les soins d'une commission internationale de cinq membres
+que presidait un Allemand, M. Ludwig Borchardt. Arrive trop tard pour
+remedier au desordre du plan, M. Maspero elargit du moins celui-ci, rompit
+peu a peu le cadre de la commission, et invita a participer a l'oeuvre
+tous les savants que leur bonne fortune amenait en Egypte; enfin, en 1900,
+il obtint du gouvernement egyptien les fonds necessaires pour bien editer
+ce catalogue. Depuis l'annee 1900, jusqu'a nos jours, plus de soixante
+volumes ou fascicules munis largement de planches ont paru, dont la moitie
+environ sont dus a la plume de savants francais et de membres de
+l'Institut archeologique. M. DARESSY, aujourd'hui secretaire general du
+service, et dont l'oeuvre considerable avait ete dispersee jusqu'alors
+dans des journaux scientifiques, _Revue archeologique, Recueil de travaux,
+Bulletin de l'Institut egyptien_, ouvrit la serie en 1900, et la continua
+a quelques annees d'intervalle par ses volumes de _Dessins et de textes
+magiques_, du _Tombeau de Maherpra et d'Amenophis II_, des _Momies royales
+de Deir-el-Bahari_, des _Figures de divinites egyptiennes_. M. Lacau a
+publie _les Cercueils du Moyen Empire_ (2 vol.), et le premier volume des
+_Steles de la XVIIIe dynastie_; M. Moret, _les Cercueils de la XXIIe
+dynastie_ (2 vol.); M. Gauthier, _les Cercueils des pretres de Mentou_;
+M. Gaston Maspero, le premier volume des _Sarcophages d'epoque Saite et
+Ptolemaique_; M. Vernier, deux livraisons de _Bijoux et d'orfevreries_ que
+M. Daressy achevera; M. Benedite, trois volumes sur les petits objets de
+toilette; M. Legrain, trois volumes sur les statues provenant du fonds
+decouvert par lui dans la _favissa_ de Karnak; M. Lefebvre, _le Papyrus de
+Menandre_; M. Jean Maspero, _les Papyrus byzantins_, en trois volumes dont
+le dernier est sous presse; M. Chassinat, _la Trouvaille des
+Grands-Pretres d'Ammon de la XXIe dynastie_, et d'autres sont prets qui
+ont pour auteurs MM. MUNIER, Moret, Gauthier, Gaston Maspero. Je ne parle
+pas des collaborateurs etrangers, Reisner, Currelly, Elliot-Smith, et
+maint autre dont les presses de l'Institut ont eu egalement les volumes.
+La seconde des grandes oeuvres du Service egyptien, _les Temples immerges
+de la Nubie_ en est sortie tout entiere: Gaston Maspero, _Rapports et
+Memoires_; Gauthier, _Kalabcheh, Amada_ et _Ouady es-Seboua_; Roeder,
+_de Debot au Bab Kalabcheh_ et le premier volume de _Dakkeh_; Blackmann,
+_Derr_ et _Bigeh_. Comme on le voit, ce ne sont pas les Francais seuls qui
+tirent profit de l'imprimerie montee par la France aupres de l'Institut
+D'archeologie orientale.
+
+Si, en presence des succes remportes a l'etranger, ceux qui ont ete
+obtenus par les Egyptologues demeures en France palissent un peu, ils n'en
+ont pas moins ete fort appreciables pendant la periode de temps qui s'est
+ecoulee depuis 1909 jusqu'en 1914. M. Victor Loret, a Lyon, n'a pas publie
+beaucoup d'oeuvres originales, mais son excellent enseignement nous a
+procure plusieurs bons eleves dont le dernier venu, M. Montet, s'est
+distingue a l'Institut du Caire. M. Lefebure, mort a Alger en 1908, n'a
+guere ecrit dans ses dernieres annees qu'un petit nombre de memoires
+d'histoire religieuse qui seront recueillis dans le dernier volume de ses
+_Oeuvres_, mais M. Georges FOUCART, professeur d'abord d'Histoire ancienne
+a la Faculte des lettres de Bordeaux (1898-1906), puis d'Histoire des
+religions a la Faculte d'Aix-Marseille, apres avoir soutenu en 1898 une
+these remarquable sur l'_Ordre lotiforme_, et prodigue beaucoup d'articles
+tant a la _Revue archeologique_ qu'au _Sphinx_ dont il est un des
+directeurs depuis la mort de Karl Piehl, a risque un livre fort hardi et
+fort discute, _Histoire des religions et methode comparative_, qui a eu
+rapidement deux editions (1912, 1913): il est, depuis janvier 1915,
+directeur de l'Institut archeologique du Caire. Guieysse est mort en 1914,
+apres avoir enseigne jusqu'au bout a l'Ecole des hautes etudes, (section
+d'Histoire et de Philologie), et Moret y professe seul pour l'instant.
+Apres avoir insere plusieurs articles dans le _Recueil de travaux_, il
+avait choisi pour sujets de these l'histoire du roi Bocchoris qu'il
+ecrivit en latin, _De Bocchori rege_, et le _Caractere religieux de la
+royaute pharaonique_ (1902), adjoignant a ce dernier sujet comme
+complement _le Rituel du culte divin journalier en Egypte_ (1902). Il y
+ajouta de nombreux articles dans le _Recueil_, entre autres des
+observations importantes sur _les Donations et les contrats funeraires
+dans l'ancienne Egypte_, et un catalogue tres detaille des monuments
+egyptiens du musee d'Aix-en-Provence; dans les Annales du musee Guimet, un
+catalogue de la partie egyptienne de ce musee (1908); enfin, dans le
+_Journal asiatique_, la premiere partie d'une critique dirigee contre les
+idees du commandant WEILL et intitulee _Chartes d'immunite dans l'ancien
+Empire egyptien_ (1913). Entre temps, il a dissimule dans la _Revue de
+Paris_ et dans la _Bibliotheque de vulgarisation_, des articles destines
+au grand public et qu'il a reunis en deux volumes sous les titres: _Au
+temps des Pharaons_ (1904), _Rois et Dieux d'Egypte_ (1911), et _Mysteres
+egyptiens_. Son enseignement a l'Ecole des hautes etudes a produit un
+eleve, M. SOTTAS, qui, apres quelques articles de moindre interet dans les
+Revues scientifiques, concut en 1913 une these pour l'obtention du
+diplome, _la Preservation de la propriete funeraire dans l'ancienne
+Egypte_; c'est le debut le meilleur qui ait ete fait dans notre science
+depuis tres longtemps. Comme M. Sottas, M. Weill est officier de carriere.
+Il debuta en 1898 par un article insere au _Journal asiatique_, article
+que sa competence sur les questions militaires rendait specialement
+interessant, _l'Art de la fortification dans la haute antiquite
+egyptienne_. Il se voua ensuite a l'etude du Sinai, et apres avoir pris la
+presqu'ile meme pour sujet de sa these, qui ne parut qu'en 1908, il edita
+prealablement le _Recueil des inscriptions egyptiennes du Sinai_ (1904).
+Il avait reserve son autre these a la recherche et a la discussion
+approfondie des monuments se rapportant aux rois de la _IIe et de la
+IIIe dynastie_ (1908), quand, apres s'etre attache pendant une annee
+(1905) aux fouilles de Flinders Petrie, il s'associa au jeune A.J. REINACH
+pour faire des fouilles au bord du Nil. Ils decouvrirent ensemble
+a _Coptos_ les premiers monuments connus de la VIIIe dynastie, et, tandis
+qu'A.-J. Reinach faisait le recit de leur campagne dans son _Rapport sur
+les fouilles de Coptos_ (1909-1910), Weill publiait les _Decrets royaux de
+l'ancien Empire egyptien, etude sur les decrets royaux trouves a Coptos et
+sur les documents similaires d'autres provenances_ (1911), ouvrage qui,
+malgre ses fautes reelles et les critiques de Gardner en Angleterre, de
+Moret en France, de Kurt Sethe en Allemagne, demeure des plus suggestifs.
+C'est surtout dans les _Annales du Service des Antiquites_ que Lefebvre a
+consigne ses notes tantot grecques, tantot hieroglyphiques, sur les
+monuments par lui recueillis au cours de ses inspections. Montet a
+multiplie les petits memoires au _Recueil_, dans le _Sphinx_ et dans le
+_Bulletin de l'Institut_. Jean Maspero s'est livre a de curieuses
+investigations sur les sources coptes et arabes de l'histoire d'Egypte et
+a presente une these pour le diplome d'eleve de l'Ecole des hautes etudes
+sur l'_Armee byzantine d'Egypte_ (1911)[1].
+
+[Note 1: A l'heure ou ces lignes sont ecrites, MM. MONTET et LEFEBVRE
+sont aux armees; MM. SOTTAS et WEILL ont ete blesses au feu, le premier
+tres grievement; M. A. J. REINACH a disparu depuis le mois d'aout 1914;
+M. Jean MASPERO est tombe a Vauquois, le 17 fevrier 1915, et le
+dessinateur de l'Institut d'archeologie, M. DAUMAS, a ete tue a l'ennemi
+des les premieres rencontres de 1914 en Lorraine. L'Egyptologie, sous
+toutes ses formes, a paye largement son tribut a la patrie.]
+
+
+ C'est egalement a l'Egypte des derniers siecles que Jouguet, Lesquier et
+Gayet ont consacre, au moins en partie, leurs travaux. Jouguet en ecrivant
+sa these sur _la Vie municipale en Egypte_ (1910); Lesquier par ses
+recherches sur l'_Armee ptolemaique_ (1911) et sur l'armee romaine
+d'Egypte, auxquelles il a ajoute en 1914 un essai plus bizarre qu'heureux
+de _Grammaire egyptienne_; Gavel par l'_Exploration des ruines d'Antinoe_
+(1896), differentes notices sur les fouilles de cette meme ville de 1898 a
+1914. _l'Art copte_ (1906), et de nombreuses brochures ecrites un peu au
+hasard. Notons, en terminant, les deux ouvrages ou M. Virey a resume en
+1909 la matiere des lecons qu'il avait faites avec beaucoup de vigueur et
+d'impartialite a l'Universite catholique de Paris sur la _Religion
+egyptienne_ et ou M. Jules BAILLET a expose en detail vers 1912 ses idees
+sur la _Morale_.
+
+Telle est dans ses grandes lignes l'histoire du developpement qu'a suivi,
+depuis l'Exposition universelle de 1867, l'Egyptologie francaise. Si l'on
+reprend un a un tous les hommes qui tenaient la scene au debut de cette
+periode, E. de Rouge, Chabas, Deveria, Mariette, on verra qu'ils sont
+morts ainsi qu'une partie de ceux qui les ont suivis. Berend,
+Rochemonteix, Bouriant, Lefebure, Revillout, Guieysse, Grebaut, Amelineau.
+Jacques de Rouge, Pierret, Auguste Baillet ne produisent plus guere.
+Gaston Maspero continue a travailler et a professer, mais l'age de la
+retraite ne tardera pas a sonner pour lui. Malgre le dedain que beaucoup
+d'etrangers, qui n'ont fait ni plus ni mieux, affectent pour elle et pour
+une partie de son oeuvre, cette generation qui s'en va peut se rendre le
+temoignage qu'elle n'a point laisse pericliter l'oeuvre de Champollion. En
+France, elle a enseigne sans relache au College de France, a l'Ecole des
+hautes etudes, au Louvre; elle a obtenu la creation de chaires qui n'ont
+pas ete toutes conservees, a Lyon, a Alger, a Bordeaux, a Aix-Marseille;
+elle a recueilli l'oeuvre de ses devanciers et elle a prepare celle de ses
+successeurs. En Egypte, elle a organise le Service des antiquites et elle
+a si bien assure la protection de celles-ci que toutes les nations
+europeennes, et meme l'Allemagne, ont du lui reconnaitre de ce chef un
+veritable droit de preseance; et si, plus tard, pour des raisons de
+politique, elle est amenee a y renoncer, elle a cree au Caire une grande
+Ecole qui est en etat d'y perpetuer la tradition des recherches purement
+scientifiques. J'espere que, malgre les pertes cruelles qu'elle subit du
+fait de la guerre, la generation actuelle, la troisieme depuis 1867, ne
+faillira pas a maintenir de toutes ses forces l'edifice que la deuxieme a
+bati: elle est jeune, pleine d'ardeur, animee d'un puissant esprit de
+critique, prete a tout entreprendre, et, lorsqu'elle pourra se reappliquer
+au travail, elle le fera avec les qualites d'energie et de maturite qu'une
+crise aussi forte que celle qu'elle traverse en ce moment ne peut manquer
+de lui donner.
+
+G. MASPERO.
+
+
+
+_BIBLIOGRAPHIE_
+
+_Description de l'Egypte ou Recueil des observations qui ont ete faites en
+Egypte pendant l'expedition de l'armee francaise,_ 10 vol. de texte in-4 deg.
+et 14 vol. de planches in-fol. Paris, Impr. Royale, 1809-1829.
+
+CHAMPOLLION LE JEUNE. _L'Egypte sous les Pharaons ou Recherches sur la
+Geographie, la Religion, la Langue, les Ecritures et l'Histoire de
+l'Egypte avant l'invasion de Cambyse_, 2 vol. in-8 deg.. Paris, de Bure
+freres, 1814.
+
+--_Lettre a M. le duc de Blacas d'Aulps relative au Musee royal egyptien
+de Turin_, in-8 deg.. Paris, Didot, 1824.
+
+--_Precis du systeme hieroglyphique des anciens Egyptiens ou Recherches
+sur les elements premiers de cette ecriture sacree, sur leurs diverses
+combinaisons et sur le rapport de ce systeme avec les autres methodes
+graphiques egyptiennes_, 2e ed., augmentee de la _Lettre a M. Dacier
+relative a l'alphabet des hieroglyphes phonetiques_ (1814), 2 vol. in-8 deg..
+Paris, Impr. Royale, 1827-1828.
+
+--_Grammaire egyptienne ou Principes generaux de l'ecriture sacree
+egyptienne appliquee a la representation de la langue parlee_, in-4 deg..
+Paris, Didot, 1836.
+
+--_Monuments de l'Egypte et de la Nubie d'apres les dessins executes par
+l'auteur sur les lieux_, 4 vol. in-fol. Paris, Didot, 1835-1845.
+
+--*_Dictionnaire egyptien en ecriture hieroglyphique_, in-4 deg.. Paris,
+Didot, 1841.
+
+CHAMPOLLION LE JEUNE.--_Monuments de l'Egypte et de la Nubie. Notices
+descriptives conformes aux manuscrits autographes rediges sur les lieux
+par l'auteur_, 2 vol. in-4 deg.. Paris, Didot, 1844-1855.
+
+Emm. DE ROUGE.--_Notice des monuments exposes dans la galerie d'antiquites
+egyptiennes au Musee du Louvre_, 1re ed., in-8 deg.. Paris, Vinchon, 1849.
+
+--_Rapport adresse a M. le Directeur general des Musees nationaux sur
+l'exploration scientifique des principales collections egyptiennes
+renfermees dans les divers Musees publics de l'Europe_. Extrait du
+_Moniteur_ des 7 et 8 mars 1851.
+
+--_Memoire sur l'inscription du tombeau d'Aahmes, chef des nautonniers_,
+in-4 deg.. Paris, Impr. Nationale, 1851.
+
+--*_Le Poeme de Pen-ta-our_. Extrait d'un _Memoire sur les campagnes de
+Ramses II--Sesostris_, in-8 deg.. Paris, Didot, 1856.
+
+--_Inscriptions hieroglyphiques copiees en Egypte pendant sa mission
+scientifique_, 2 vol. in-4 deg.. Paris, Vieweg, 1877-1879.
+
+--_Inscriptions et notices recueillies a Edfou, par E. de Rouge_, publiees
+par J. de Rouge, 2 vol. in-8 deg.. Paris, Leroux, 1880.
+
+F. CHABAS.--_Le Papyrus magique Harris, traduction analytique et commentee
+d'un papyrus egyptien_, in-4 deg.. Chalon-sur-Saone, Dejussieu, 1860.
+
+--_Les Pasteurs en Egypte_, in-4 deg.. Amsterdam, E. de Post, 1868.
+
+--_Voyage d'un Egyptien en Syrie, en Phenicie, en Palestine au XIVe siecle
+avant notre ere_, in-4 deg.. Paris, Maisonneuve, 1866.
+
+--_Melanges egyptologiques_, 3 parties, in-8 deg.. Chalon-sur-Saone,
+1862-1873.
+
+--_Etude sur l'antiquite historique d'apres les sources egyptiennes et les
+monuments reputes prehistoriques_, 2e ed., gr. in-8 deg.. Paris, Maisonneuve,
+1873.
+
+--_Les Maximes du scribe Ani_, in-4 deg.. Chalon-sur-Saone, Dejussieu,
+1876-1878.
+
+--_Recherches pour servir a l'histoire de la XIXe dynastie et specialement
+du temps de l'Exode_, in-4 deg.. Chalon-sur-Saone, Dejussieu, 1873.
+
+J. MARIETTE-PACHA.--_Note sur la decouverte et sur les fouilles du
+Serapeum de Memphis_. Publiee dans les comptes rendus des Seances de
+l'Academie des Inscriptions, 8 et 15 decembre 1854.
+
+--_Renseignements sur les 64 Apis trouves dans les souterrains du Serapeum
+de Memphis_. Bulletin de l'Athenaeum francais, 1855-1856.
+
+J. MARIETTE-PACHA.--_Memoire sur la mere d'Apis_. in-4 deg.. Paris, J. de
+Baudry, 1856.
+
+--_Lettre et deuxieme lettre a M. le vicomte de Rouge sur les fouilles de
+Tanis_. R.A.[1], 2e serie, III et V. Paris, 1861-1862.
+
+--_Notices des principaux monuments exposes dans les galeries provisoires
+du musee d'Antiquites egyptiennes de S.A. le vice-roi a Boulaq_, in-8 deg..
+Alexandrie, Moures, 1864.
+
+--_Fouilles executees en Egypte, en Nubie et au Soudan d'apres les ordres
+du vice-roi_, 2 vol. Paris, Franck, 1867.
+
+--_Abydos, descriptions des fouilles executees sur l'emplacement de cette
+ville_, 3 vol. in-fol. et in-4 deg.. Paris, Vieweg, 1869-1880.
+
+--_Denderah, description generale du Temple de cette ville_, 5 vol.
+planches in-fol., 1 vol. texte in-4 deg.. Paris, Vieweg, 1870-1875.
+
+--_Remarques sur l'age de la pierre en Egypte_. Rapport lu a l'Academie
+des inscriptions, le 4 nov. 1870.
+
+--_Les Papyrus egyptiens du Musee de Boulaq publies en fac-simile sous les
+auspices de S.A. Ismail-Pacha, khedive d'Egypte_, 3 vol. in-fol. Paris,
+Vieweg, 1871-1878.
+
+--_Liste geographique des pylones de Karnak_, in-fol. et in-4 deg.. Leipzig,
+Hinrichs, 1875.
+
+--_Karnak, etude topographique et archeologique_, in-fol. et in-4 deg..
+Leipzig, Hinrichs, 1875.
+
+--_Deir-el-Bahari, Documents topographiques... recueillis dans le temple_,
+in-4 deg. et in-fol. Leipzig, Hinrichs, 1877.
+
+--*_Monuments divers recueillis en Egypte et en Nubie_, in-fol. Paris,
+Vieweg, 1881.
+
+--_Voyage dans la haute Egypte_, 2 vol. in-fol. Paris, Vieweg, 1881.
+
+--_Le Serapeum de Memphis_, publie d'apres les manuscrits de l'auteur, par
+G. Maspero, in-4 deg. et in-fol. Vieweg, 1882.
+
+--*_Les Mastabas de l'ancien Empire_, publies par G. Maspero, in-fol.
+Paris, Vieweg, 1889.
+
+       *       *       *       *       *
+
+NOTE: Abreviations designant les collections et periodiques cites:
+
+A.M.G.: _Annales du Musee Guimet_. B.E.: _Bibliotheque d'Etudes_. B.Eg.:
+_Bibliotheque egyptologique_.
+
+C.G.: _Catalogue general des antiquites egyptiennes du Musee du Caire_.
+
+E.E.: _Etudes egyptologiques_. M.I.: _Memoires publies par les membres de
+l'Institut francais d'archeologie orientale_.
+
+M.M.: _Memoires publies par les membres de la Mission archeologique
+francaise du Caire_.
+
+M.P.: _Monuments et Memoires publies par l'Academie des inscriptions et
+belles-lettres. Fondation Eugene Piot_. R.A.: _Revue Archeologique_.
+
+R.T.: _Recueil des Travaux relatifs a la philologie et a l'archeologie
+egyptiennes et assyriennes_.
+
+
+E. LEFEBURE.--_Traduction comparee des Hymnes au Soleil, composant le XVe
+chapitre du Rituel funeraire egyptien_, in-4 deg.. Paris, Vieweg, 1868.
+
+--_Le Mythe osirien_: I. _les Yeux d'Horus_; II. _Osiris_, 2 vol. in-4 deg..
+Paris, Vieweg, 1874-1875.
+
+--_Les Hypogees royaux de Thebes_, 1re division, _le Tombeau de Seti 1er_.
+A.M.G., t. IX, 1887: 2e division, _le Tombeau de Ramses IX_. Ibid., t. XVI
+et XVIe, 1889. Voir aussi M.M., t. III.
+
+--_Rites egyptiens. Construction et protection des edifices_. Bulletin de
+Correspondance africaine, in-8 deg.. Paris, Leroux, 1890.
+
+--*_Oeuvres diverses publiees par G. Maspero_. B.Eg., 2 vol. in-8 deg.. Paris,
+Leroux, 1890-1912.
+
+Th. DEVERIA.--*_Les Papyrus judiciaires de Turin et les Papyrus Lee et
+Rollin_, in-8 deg.. Paris, Leroux, 1868.
+
+--_Catalogue des manuscrits egyptiens ecrits sur papyrus, toile, tablettes
+et ostraca... conserves au musee egyptien du Louvre,_ in-12. Paris,
+Mourgues, 1881.
+
+ROUGE (Vicomte DE).--_Geographie des nomes de la basse Egypte_. Paris,
+Rothschild, 1891.
+
+PIERRET.--_Textes et traductions francaises du Rituel funeraire d'une
+stele ethiopienne inedite et divers monuments religieux_, in-4 deg.. Paris,
+Vieweg, 1873.
+
+--_Vocabulaire hieroglyphique_, in-8 deg.. Paris, Vieweg, 1875.
+
+PIERRET et DEVERIA.--_Les papyrus de Neb-Keb. Exemplaire hieroglyphique du
+livre des Morts_, in-fol. Paris, Vieweg, 1872.
+
+--_Le decret trilingue de Canope_. E.E., in-4 deg.. Paris, Vieweg, 1881.
+
+GREBAUT.--_Hymne a Amon-Ra des papyrus egyptiens du Musee de Boulaq_,
+in-8 deg.. Paris, Bouillon, 1873-1874.
+
+GUIEYSSE.--_Rituel funeraire egyptien, chapitre LX1V_. E.E., in-4 deg.. Paris,
+Vieweg, 1875.
+
+GUIEYSSE et LEFEBURE.--_Les Papyrus funeraires de Soutimes_, I vol. gr.
+in-fol. Paris, Leroux, 1877.
+
+REVILLOUT.--_Le Concile de Nicee d'apres les Coptes et les diverses
+collections canoniques_, 2 vol. in-8 deg.. Paris, Maison-neuve, 1881-1898.
+
+--_Actes et contrats du Musee egyptien de Boulaq et du Louvre_, E.E.,
+in-4 deg.. Paris, Vieweg, 1876.
+
+--_Le Roman de Setna_, in-8 deg., Paris, Leroux, 1877.
+
+REVILLOUT.--_Rituel funeraire de Pa-Month en demotique_, in-4 deg.. Paris,
+Leroux, 1880-1888.
+
+--_Chrestomathie demotique_. E.K., IV, in-4 deg.. Paris, Vieweg, 1880.
+
+--_Nouvelle Chrestomathie demotique_, in-4 deg.. Paris, Vieweg, 1878.
+
+--_Notices des Papyrus demotiques archaiques et autres textes juridiques
+et historiques_, in-4 deg.. Paris, Maisonneuve, 1896.
+
+--*_Precis de Droit egyptien compare aux autres droits de l'antiquite_,
+2 vol. in-8 deg.. Paris, Giard et Briere, 1903.
+
+REVILLOUT et EISENLOH.--_Corpus Papyrorum Aegypti_, in-fol. et in-4 deg..
+Paris, Leroux, 1885-1892.
+
+G. MASPERO.--_La Stele du Songe_. R.A., 1868, in-8 deg.. Paris, s.d.
+
+--_Essai sur l'inscription dedicatoire du temple d'Abydos et la jeunesse
+de Sesostris_, in-4 deg.. Paris, Franck, 1867.
+
+--*_Hymne au Nil publie et traduit d'apres les deux textes du Musee
+britannique_, in-4 deg.. Franck, 1809. Reedite dans B.E., t. V, 1912.
+
+--_Une enquete judiciaire a Thebes au temps de la XXe dynastie. Etudes sur
+les papyrus Abbot_, in-4 deg.. Paris, Impr. Nat., 1872.
+
+--_Du genre epistolaire chez les Egyptiens_, in-8 deg.. Paris, Franck, 1872.
+
+--_Memoire sur quelques Papyrus du Louvre_ dans les _Notices et extraits
+des manuscrits du Louvre et de la Bibliotheque Nationale_, in-4 deg.. Paris,
+Impr. Nat., 1875.
+
+--*_Etudes egyptiennes_, 2 vol. in-8 deg.. Paris, Impr. Nat., 1866-1890.
+
+--_Les Momies royales de Deir-el-Bahari_. M.M., t. I, fasc. IV, in-4 deg..
+Paris, Leroux, 1889.
+
+--*_Contes populaires de l'Egypte ancienne_, 1882, 4e ed. in-8 deg.. Paris,
+Guilmoto, 1912.
+
+--*_L'Archeologie egyptienne_, in-8 deg.. Paris, Quantin.
+
+--*_Histoire des peuples de l'Orient classique_, 3 vol. in-4 deg.. Paris,
+Hachette, 1892-1900.
+
+--*_Etudes de mythologie et d'archeologie egyptiennes_. B.Eg. t. I, II,
+VII, VIII, XXVII, XXVIII, 7 vol. in-8 deg.. Paris, Leroux, 1893-1913.
+
+--*_Les Inscriptions des pyramides de Saqqarah_, 1 vol. in-4 deg.. Paris,
+Bouillon, 1894.
+
+--_Memoires de Sinhouit transcrits et publies_. B.E., t. I, in-4 deg.. Le
+Caire, 1908.
+
+--_Sarcophages des epoques persane et ptolemaique_, in-4 deg.. Le Caire, 1908.
+
+G. MASPERO.--_Causeries d'Egypte_, in-8 deg.. Paris, Guilmoto. 1910.
+
+--*_L'Egypte_, dans _Ars Una_, in-12. Paris, Hachette, 1912.
+
+--_Essais sur l'Art egyptien_, in-8 deg.. Paris, Guilmoto, 1913.
+
+--_Ruines et Souvenirs d'Egypte_, in-8 deg.. Paris, Guilmoto, 1914.
+
+--_Les Enseignements d'Amenemhait 1er a son fils Senouasrit_. B.E., t. VI.
+Le Caire, 1914.
+
+G. MASPERO et GREBAUT.--_Le Musee egyptien, recueil de monuments et de
+notices sur les fouilles d'Egypte_, in-4 deg.. Le Caire, 1890-1907.
+
+G. MASPERO, ROEDER, H. GAUTHIER, BLACKMAN et ZUCKER.--_Les Temples
+immerges de la Nubie_, in-4 deg.. Le Caire, 1911.
+
+Maxence DE ROCHEMONTEIX.--*_Essais sur les rapports grammaticaux qui
+existent entre l'Egyptien et le Berbere_.
+
+--*_Extrait des Memoires du congres international des Orientalistes_, 1re
+session. Paris, 1873, t. II, p. 66-106. B.Eg., t. III, in-8 deg.. Paris,
+Leroux, 1894.
+
+--_Edfou_, t. I, publie et continue par E. Chassinat, in-4 deg.. Paris,
+Leroux, 1897.
+
+Jacques DE MORGAN, BOURIANT, LEGRAIN, JEQUIER.--_Catalogue des monuments
+et inscriptions de l'Egypte antique_, 3 vol. in-4 deg.. Vienne, Holzhausen,
+1894-1905.
+
+--_Fouilles a Dashour_, 2 vol. in-4 deg.. Vienne, Holzhausen, 1894-1903.
+
+--_Recherches sur les origines de l'Egypte_, t. I. _l'Age de la pierre et
+des metaux;_ II. _Ethnographie prehistorique et le tombeau royal de
+Negadah_, in-4 deg.. Paris, Leroux, 1896-1897.
+
+AMELINEAU.--_Essai sur le Gnosticisme egyptien, ses developpements et son
+origine egyptienne_, in-8 deg.. Paris, Leroux, 1887.
+
+--_Les Moines egyptiens. Vie de Schnoudi_, in-12. Paris, Leroux, 1889.
+
+--_La Geographie de l'Egypte copte_, in-4 deg.. Paris, Impr. Nat., 1893.
+
+--_Histoire des monasteres de la basse Egypte, texte copte et traduction
+francaise_. A.M.G., t. XXV, in-4 deg.. Paris, Leroux, 1894.
+
+--_Les nouvelles fouilles d'Abydos. Campagne de 1895-1896 et campagne de
+1897-1898_, 4 vol. in-4 deg.. Paris, Leroux, 1899-1904.
+
+Urbain BOURIANT.--_Deux jours de fouilles a Tell-el-Amarna._
+
+--_Les Papyrus d'Akhmin_.
+
+--_Rapport sur une mission en haute Egypte, 1884-1885_. M.M., t. I, in-4 deg..
+Paris, Leroux, 1889.
+
+Urbain SOURIANT et LORET.--_Le Tombeau, de Seti 1er_. M.M., t. II, in-4 deg..
+Paris, Leroux, 1886.
+
+Urbain BOURIANT.--_Actes du Concile d'Ephese, texte copie et traduction_.
+Ibid., t. VIII, in-4 deg.. Paris, 1892.
+
+BOURIANT, LEGRAIN et JEQUIER.--_Monuments pour servir a l'histoire du
+culte d'Atonou_, in-4 deg.. Le Caire, 1903.
+
+Victor LORET.--_Quelques documents relatifs a la Musique et a la
+Litterature populaire de la haute Egypte_. M.M., t. I, in-4 deg.. Paris,
+Leroux, 1889.
+
+--_La Flore pharaonique_, in-8 deg.. Paris, Leroux, 1892.
+
+--_Manuel de la langue egyptienne: grammaire, tableau des hieroglyphes,
+textes, glossaire_, gr. in-8 deg.. Paris, Leroux, 1889.
+
+Dominique MALLET.--_Le Culte de Neith a Sais_, in-8 deg.. Paris, Leroux, 1888.
+
+--_Les premiers Etablissements des Grecs en Egypte_. M.M., t. XII, in-4 deg..
+Paris, Leroux, 1893.
+
+Albert GAYET.--*_Le Temple de Louxor_. M.M., t. XV, in-4 deg.. Paris, Leroux,
+1804.
+
+--_Exploration des ruines d'Antinoe_. A.M.G., t. XXVIe, XXXe. Paris,
+Leroux, 1899-1902.
+
+Philippe VIREY.--_Etudes sur le papyrus Prisse_. Paris, Bouillon, 1886.
+
+--_Etude sur un parchemin rapporte de Thebes_. M.M., t. I, in-4 deg.. Paris,
+Leroux, 1889.
+
+--_Le Tombeau de Rekhmara_. M.M., V1, 1889.
+
+--*_La Religion de l'ancienne Egypte_, in-12. Paris, Beauchesne,
+  1910.
+
+Georges DARESSY.--_La grande Colonnade du temple de Louqsor_, in-4 deg..
+Paris, Leroux, 1874.
+
+--_Notice explicative des ruines du temple de Louqsor_. Le Caire, Impr.
+Nat., 1893.
+
+--_Notice explicative des ruines de Medinet-Habou_. Le Caire, Impr. Nat.,
+1897.
+
+--_Le Mastaba de Mera_. Memoire presente a l'Institut egyptien, t. III,
+fasc. VI, in-4 deg.. Le Caire, 1898.
+
+--_Ostraca_. C.G., in-4 deg.. Le Caire, 1901.
+
+--_Textes et dessins magiques_, in-4 deg.. Le Caire, 1903.
+
+--_Statues et divinites egyptiennes_, 2 vol. in-4 deg.. Le Caire, 1905-1910.
+
+--_Cercueils des cachettes royales_, in-4 deg.. Le Caire, 1909.
+
+Georges BENEDITE.--_Le Tombeau de Thiti_.--_Le Tombeau de Neferhotpou_.
+M.M., t. V, in-4 deg.. Paris, Leroux, 1891.
+
+--_La Peninsule sinaitique_, in-16. Paris, Hachette, 1891.
+
+--_Le Temple de Philoe_. M.M., t. XIII, in-4 deg.. Paris, Leroux,
+  1895.
+
+--*_Memoires d'archeologie egyptienne_. M.P., t. II a XIX, in-4 deg.. Paris,
+Leroux, 1895-1911.
+
+--_Objets de toilette_. C.G., 2 vol, in-4 deg.. Le Caire, Impr. de l'Inst.
+francais, 1911.
+
+--_Miroirs_. C.G., in-4 deg.. Le Caire.
+
+Emile CHASSINAT.--_Le Mammisi d'Edfou_, in-4 deg.. Le Caire, 1910.
+
+Emile CHASSINAT, H. PIERON et H. GAUTHIER.--_Fouilles d'El-Qattah_. Ibid.,
+t. XIV, in-4 deg.. Le Caire, 1906.
+
+--_La seconde trouvaille des grands pretres d'Amande la XXIe dynastie_.
+C.G., in-4 deg.. Le Caire, 1909.
+
+--_Fouilles de Baouit_. Le Caire, 1911.
+
+Georges LEGRAIN.--_Statues et statuettes de rois et de particuliers_,
+in-4 deg.. Le Caire, 1906 ss.
+
+--_Repertoire genealogique et onomastique du Musee du Caire. Monuments de
+la XVIIe et XVIIIe dynasties_, in-4 deg.. Geneve, 1908.
+
+Georges LEGRAIN et NAVILLE.--_L'Aile droite du pylone d'Amenophis III a
+Karnak_. A.M.G., t. XXX, in-4 deg.. Paris, Leroux, 1902.
+
+Alexandre MORET.--*_Le Caractere religieux de la monarchie pharaonique_,
+in-8 deg.. Paris, Leroux, 1902.
+
+--_Le Rituel du culte divin journalier en Egypte_, in-8 deg.. Paris, Leroux,
+1902.
+
+--_Au temps des Pharaons_, in-12. Paris, Colin, 1908.
+
+--_Charte d'immunite dans l'ancien Empire egyptien_. 1re partie, in-8 deg..
+Paris, Impr. Nat., 1912.
+
+--_Sarcophages de l'epoque Bubastite a l'epoque Saite_. Le Caire, 1912 ss.
+
+Georges FOUCART.--_L'Ordre lotiforme. Etude d'archeologie egyptienne_,
+in-4 deg.. Paris, Leroux, 1897.
+
+--*_Histoire des religions et methode comparative_, 2e edition. Paris,
+Picard, 1913.
+
+Pierre LACAU.--_Fragments d'apocryphes coptes_. M.I., t. IX, in-4 deg.. Le
+Caire, 1904.
+
+Pierre LACAU.--_Sarcophages anterieurs au Nouvel Empire._ C.G., 2 vol.
+in-4 deg.. Le Caire, 1903 et suiv.
+
+--_Steles du Nouvel Empire_. C.G., in-4 deg.. Le Caire, 1909.
+
+--_Notes de grammaire a propos de la grammaire egyptienne de M. Erman_.
+R.T., XXXV, 1913.
+
+Capitaine R. WEILL.--*_L'Art de la fortification dans la haute antiquite
+egyptienne_. Extrait du _Journal Asiatique_. in-8 deg.. Paris, Leroux, 1900.
+
+--_La presqu'ile du Sinai. Etude de geographie et d'histoire_, in-8 deg..
+Paris, Champion, 1908.
+
+--_Decrets royaux de l'ancien Empire egyptien; etude sur les decrets
+royaux trouves a Coptos et sur les documents similaires d'autre
+provenance_, in-4 deg.. Paris, Geuthner, 1911.
+
+--_Les Origines de l'Egypte pharaonique_. 1re partie, _La IIe et IIIe
+dynasties_, in-4 deg.. Paris, Leroux, 1908.
+
+Henri GAUTHIER.--*_Le Livre des Rois d'Egypte. Recueil de titres et
+protocoles royaux_. M.I., t. XVII, in-4 deg.. Le Caire, 1908.
+
+--_La grande inscription dedicatoire du temple d'Abydos_. B.E., IV, in-4 deg..
+Le Caire, 1912.
+
+--_Cercueils anthropoides des pretres de Montou_, in-4 deg.. Le Caire, 1912.
+
+Jules BAILLET.--_Introduction a l'etude des idees morales dans l'Egypte
+antique_. Blois, 1912.
+
+Jean CLEDAT.--_Monastere et necropole de Baouit_. M.I., in-4 deg.. Le Caire,
+1906.
+
+Jean LESQUIER.--_Grammaire egyptienne d'apres A. Erman._ B. E., vol. VII.
+Le Caire, 1914.
+
+Henri SOTTAS.--*_La Preservation de la propriete funeraire dans l'ancienne
+Egypte_, in-8 deg.. Paris, Champion, 1913.
+
+J. MASPERO et G. WIET.--*_Materiaux pour servir a la geographie de
+l'Egypte_, 1re ser., 1er fasc. M.L., in-4 deg.. Le Caire, 1914.
+
+
+
+
+COLLECTIONS ET PERIODIQUES
+
+*_Bibliotheque egyptologique comprenant les oeuvres des Egyptologues
+francais...,_ publiee sous la direction de G. Maspero, 35 vol. in-8 deg. parus
+de 1892 a 1914, in-8 deg.. Paris, Leroux.
+
+*_Publications de l'Institut francais d'archeologie orientale.
+Bibliotheque d'Etude_. Le Caire.
+
+*_Memoires publies par les membres de la mission archeologique francaise
+au Caire_ de 1889 a 1895, in-4 deg.. Paris, Leroux.
+
+*_Memoires publies par les membres de l'Institut francais d'archeologie
+orientale_, in-4 deg.. Le Caire, 1912-1914.
+
+_Melanges d'archeologie egyptienne et assyrienne_, in-fol. Imprimerie
+Nationale, 1873-1876.
+
+*_Revue egyptologique_, publiee depuis 1880, in-4 deg.. Paris, Leroux.
+
+*_Recueil des Travaux relatifs a la philologie et a l'archeologie
+egyptiennes et assyriennes_, publie depuis 1870, in-4 deg.. Paris, Champion.
+
+--*_Bulletin de l'Institut francais d'archeologie orientale_, publie
+depuis 1901.
+
+[Note: Les ouvrages marques d'un asterisque sont ceux qui figurent, en
+totalite ou en partie, dans la Bibliotheque de la Science francaise, a
+l'Exposition de San Francisco.]
+
+
+
+
+
+End of the Project Gutenberg EBook of L'egyptologie, by Gaston Maspero
+
+*** END OF THIS PROJECT GUTENBERG EBOOK L'EGYPTOLOGIE ***
+
+***** This file should be named 10768.txt or 10768.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.net/1/0/7/6/10768/
+
+Produced by Robert Connal, Renald Levesque and PG Distributed
+Proofreaders. This file was produced from images generously made
+available by the Bibliotheque nationale de France (BnF/Gallica) at
+http://gallica.bnf.fr.
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.net/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Each eBook is in a subdirectory of the same number as the eBook's
+eBook number, often in several formats including plain vanilla ASCII,
+compressed (zipped), HTML and others.
+
+Corrected EDITIONS of our eBooks replace the old file and take over
+the old filename and etext number.  The replaced older file is renamed.
+VERSIONS based on separate sources are treated as new eBooks receiving
+new filenames and etext numbers.
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.net
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+EBooks posted prior to November 2003, with eBook numbers BELOW #10000,
+are filed in directories based on their release date.  If you want to
+download any of these eBooks directly, rather than using the regular
+search system you may utilize the following addresses and just
+download by the etext year.
+
+     http://www.gutenberg.net/etext06
+
+    (Or /etext 05, 04, 03, 02, 01, 00, 99,
+     98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)
+
+EBooks posted since November 2003, with etext numbers OVER #10000, are
+filed in a different way.  The year of a release date is no longer part
+of the directory path.  The path is based on the etext number (which is
+identical to the filename).  The path to the file is made up of single
+digits corresponding to all but the last digit in the filename.  For
+example an eBook of filename 10234 would be found at:
+
+     http://www.gutenberg.net/1/0/2/3/10234
+
+or filename 24689 would be found at:
+     http://www.gutenberg.net/2/4/6/8/24689
+
+An alternative method of locating eBooks:
+     http://www.gutenberg.net/GUTINDEX.ALL
+
+
